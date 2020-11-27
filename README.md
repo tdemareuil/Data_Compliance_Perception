@@ -2,7 +2,7 @@
 
 As a group project during the 2nd year of my Master's in Data Science at Ecole Polytechnique and HEC Paris, we analysed how customers perceive Data Policies of companies, and tried to identify bias in customer trust towards data protection.
 
-You can find our presentation above: `Data_compliance_group3.pdf`.
+You can find our presentation above: `group3_dugnat_windels_demareuil_tran_besombes_slides.pdf`.
 
 ### Focus
 
