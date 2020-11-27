@@ -17,7 +17,7 @@ Our analysis attemps to answer the following questions:
 The data we had access to includes:
 
 * __Customer ratings__ of 115 Data Policies (17 questions per questionnaire, over 4 criteria: __Transparency__ of policy, user __Control__ of data, user perceived __Benefits__, and overall user __Trust__).
-* __Expert ratings__ of Privacy Policies, over 10 GDPR compliancy criteria.
+* __Expert ratings__ of Privacy Policies, over 10 GDPR compliance criteria.
 * __Full content__ (text) of the Data Policies, with __paragraphs annotated__ w.r.t. the GDPR compliancy criterion they cover.
 
 
