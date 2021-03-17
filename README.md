@@ -1,4 +1,4 @@
-# Data_Compliance_Perception
+# data-compliance-perception
 
 As a group project during the 2nd year of my Master's in Data Science at Ecole Polytechnique and HEC Paris, we analysed how customers perceive Data Policies of companies, and tried to identify bias in customer trust towards data protection.
 
